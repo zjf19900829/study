@@ -5,7 +5,9 @@ class Index
 {
     public function index()
     {
-    	
+        echo "再试验";
+        echo "再试验";
+        echo "再试验";
     	echo "再试验";
     	echo "试验";
     	echo "bb";
