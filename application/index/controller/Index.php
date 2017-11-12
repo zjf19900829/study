@@ -9,6 +9,7 @@ class Index
         echo "再试验";
         echo "再试验";
     	echo "再试验";
+        echo "再试验";
     	echo "试验";
     	echo "bb";
     	echo "goosd";
